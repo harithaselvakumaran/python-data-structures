@@ -5,6 +5,7 @@
 #sort and print the resulting words in alphabetical order.
 #You can download the sample data at http://www.py4e.com/code3/romeo.txt
 
+
 fname=open('list.txt')
 lst=list()
 for lines in fname:
